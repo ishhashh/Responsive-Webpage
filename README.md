@@ -30,13 +30,5 @@ This repository contains a modern and responsive webpage built with HTML, CSS, a
     ```
 3. Open `index.html` in your browser.
 
-## Screenshots
 
-### Desktop View
-![Desktop View](https://via.placeholder.com/800x400.png?text=Desktop+Screenshot)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x800.png?text=Mobile+Screenshot)
-
-## File Structure
 
